@@ -1,0 +1,19 @@
+
+.column{
+    padding:8px;
+}
+.card{
+    background-color: black;
+    color: white;
+}
+.cardImage{
+    height: 50vh;
+    background-image: url('../images/movie.jpg');
+}
+.cardBody{
+    padding: 5px;
+}
+.cardFooter{
+    padding: 5px;
+    text-align: center;
+}

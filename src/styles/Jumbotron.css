@@ -1,0 +1,10 @@
+.jumbotron{
+    margin-top: 10px;
+    background: #72bdd6;
+}
+h1{
+    font-size: 30px;
+    /* we can also use className="text-center" for the h1 tag so that the text is places at center*/
+    text-align: center; 
+    font-weight: bold;
+}
